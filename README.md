@@ -10,3 +10,19 @@ Este no es más que un simple registro de datos, registrará el nombre, apellido
 
 
 # Installation/Instalación
+
+English 
+
+Once you open the code in your code editor, what you will do is install the mysql lib, in case you don't have it clear:)
+
+Write this in your py console
+1- pip install mysql
+2- pip install mysql-connector
+
+Español 
+
+Una vez abras el código en tu editor de código, lo que harás será instalar la lib de mysql, por si no lo tienes claro :)
+
+Escribe esto en tu consola py
+1- pip install mysql
+2- pip install mysql-connector
